@@ -13,11 +13,11 @@ The project utilizes a modern data stack, connecting **Google BigQuery** for clo
 ## Tech Stack
 Category Tools & Technologies 
 
-**Data Warehouse:** Google Cloud Platform (BigQuery) 
-**SQL Dialect:**  Standard SQL 
-**BI Tool:** Power BI Desktop 
-**SQL Concepts:**  Layered Views, CTEs, Window Functions (`ROW_NUMBER`, `NTILE`), `UNION ALL`, `CASE WHEN` 
-**Power BI Concepts:**  DAX, Data Modeling, UI/UX Design, Semantic Color Grouping 
+**Data Warehouse:** Google Cloud Platform (BigQuery)  
+**SQL Dialect:**  Standard SQL   
+**BI Tool:** Power BI Desktop  
+**SQL Concepts:**   Views, CTEs, Window Functions (`ROW_NUMBER`, `NTILE`), `UNION ALL`, `CASE WHEN`  
+**Power BI Concepts:**  DAX, Data Modeling, UI/UX Design, Semantic Color Grouping  
 
 ---
 
