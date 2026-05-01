@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis: RFM Model
 > **End-to-End BI Solution: Google BigQuery (SQL) & Power BI**
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](RFM_Analysis_dashboard.png)
 
 ## Project Overview
 This project presents an end-to-end analytical solution designed to segment a customer base using the **RFM (Recency, Frequency, Monetary)** model. The goal was to transform over 12 months of raw sales data into actionable business insights to identify loyal VIPs, potential growth segments, and customers at risk of churn.
