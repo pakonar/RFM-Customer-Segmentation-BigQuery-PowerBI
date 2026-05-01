@@ -32,6 +32,8 @@ The data processing pipeline was built using a **layered view architecture** in 
 *   **Scoring (Deciles):** Utilized `NTILE(10)` to assign scores from 1 to 10 for each metric, creating a granular ranking system.
 *   **Final Segmentation:** Applied complex `CASE WHEN` logic to group customers into 8 strategic business segments based on their total RFM score.
 
+> 🔗 **[View the full SQL script here](rfm_analysis.sql)**
+
 ---
 
 ## Dashboard & Insights
